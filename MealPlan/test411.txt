@@ -1,0 +1,30 @@
+ 		 === SHOPPING LIST === 
+
+ 
+Sunday
+     ertetwe
+Monday
+     Test_Recipe04
+Tuesday
+     Test_Recipe11
+Wednsday
+     asdfasdf
+Thursday
+     Bubba Shrimp Scampy
+Friday
+      Pizza_de-la-Awsome!
+Saturday
+     Pizza_de-la-Awsome!
+
+
+Ground Beef, 		Beef, 		5 - lbs 
+werterte, 		Frozen, 		5 - ert 
+Chicken, 		Poultry, 		5 - Breast 
+ertwertw, 		Produce, 		4 - ret 
+Garlic, 		Seasoning, 		1 - Tsp 
+Garlic, 		Seasoning, 		1 - Tsp 
+Salt, 		Seasoning, 		1 - Tsp 
+Salt, 		Seasoning, 		1 - Tsp 
+Tomato, 		Vegitable, 		1 - Single 
+Tomato, 		Vegitable, 		1 - Single 
+

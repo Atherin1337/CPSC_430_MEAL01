@@ -1,0 +1,32 @@
+ 		 === SHOPPING LIST === 
+
+ 
+Sunday
+     Test_Recipe02
+Monday
+     Pizza_de-la-Awsome!
+Tuesday
+     Test_Recipe12
+Wednsday
+     Pasta rigamortis
+Thursday
+     Fabu ragu
+Friday
+      Test_Recipe03
+Saturday
+     Test_Recipe03
+
+
+Ground Beef, 		Beef, 		5 - lbs 
+Flounder, 		Fish, 		5 - lbs 
+Flounder, 		Fish, 		5 - lbs 
+Garlic, 		Seasoning, 		1 - Tsp 
+Garlic, 		Seasoning, 		1 - Tsp 
+Garlic, 		Seasoning, 		1 - Tsp 
+Salt, 		Seasoning, 		1 - Tsp 
+Salt, 		Seasoning, 		1 - Tsp 
+Salt, 		Seasoning, 		1 - Tsp 
+Tomato, 		Vegitable, 		1 - Single 
+Tomato, 		Vegitable, 		1 - Single 
+Tomato, 		Vegitable, 		1 - Single 
+

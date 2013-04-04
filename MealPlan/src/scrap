@@ -1,0 +1,10 @@
+            try {
+                //FileWriter outFile = new FileWriter(args[0]);
+                PrintWriter out = new PrintWriter("test411.txt");
+
+                out.println(args[0]);
+
+                out.close();
+          } catch (IOException e){
+              e.printStackTrace();
+          }
